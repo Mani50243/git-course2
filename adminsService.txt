@@ -1,4 +1,4 @@
 add users and logins 
 and services.
 
-creating database connection.
+creating database oracle connection.
